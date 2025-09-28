@@ -3,7 +3,6 @@ duck-kitty is my personal kitty configuration.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-    - [Requirements](#requirements)
     - [Installation](#installation)
 - [Plugins](#plugins)
 - [Screenshots](#screenshots)
