@@ -4,7 +4,6 @@ duck-kitty is my personal kitty configuration.
 ## Table of Contents
 - [Getting Started](#getting-started)
     - [Installation](#installation)
-- [Plugins](#plugins)
 - [Screenshots](#screenshots)
 
 
@@ -28,5 +27,5 @@ git clone https://github.com/DuckyShine004/duck-kitty.git $HOME/.config/kitty
 > [!Warning]
 > If you already have a kitty setup, make sure to back it up before proceeding further.
 
-## Snapshots
+## Screenshots
 ![kitty](snapshots/kitty.png)
